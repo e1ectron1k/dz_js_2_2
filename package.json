@@ -1,0 +1,12 @@
+{
+  "name": "ajs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "serve": "npx live-server . --port=8080"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
