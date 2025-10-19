@@ -1,4 +1,3 @@
-import './css/style.css';
-import './js/app.js';
+import './app.js';
 
-console.log('Webpack entry point loaded');
+console.log('Webpack modules project loaded successfully!');
